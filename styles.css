@@ -1,0 +1,26 @@
+.container1 {
+    font-family: Roboto;
+    background-color: #1f2937;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo {
+    font-size: 24px;
+    color: #f9fAf8;
+}
+header ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+header ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
+
+}
