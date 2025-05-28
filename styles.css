@@ -98,7 +98,7 @@ header ul li a {
 .quote-footer {
     display: flex;
     justify-content: right;
-    font-weight: heavy;
+    font-weight: bold;
 }
 footer {
     background-color: #1f2937;
