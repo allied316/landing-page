@@ -30,3 +30,25 @@ header ul li a {
     color:#f9fAf8;
     font-weight: 900;
 }
+.secondary-text {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-left:20px;
+}
+.header-info button {
+    background-color:#3882f6;
+    color:#f9fAf8;
+}
+.header-content {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+    gap: 15px;
+}
+.img-div {
+    width: 300px;
+    height: 100px;
+    background-color: #e5e7eb;
+    margin-right:20px;
+}
